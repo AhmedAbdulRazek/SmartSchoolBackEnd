@@ -1,0 +1,56 @@
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.deps.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.runtimeconfig.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.pdb
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.csproj.AssemblyReference.cache
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.AssemblyInfoInputs.cache
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.AssemblyInfo.cs
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.csproj.CoreCompileInputs.cache
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\refint\SmartSchool.DAL.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.pdb
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.genruntimeconfig.cache
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\ref\SmartSchool.DAL.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.deps.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.runtimeconfig.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.pdb
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.csproj.AssemblyReference.cache
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.AssemblyInfoInputs.cache
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.AssemblyInfo.cs
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\refint\SmartSchool.DAL.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.pdb
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.genruntimeconfig.cache
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\ref\SmartSchool.DAL.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.deps.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.runtimeconfig.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.pdb
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.csproj.AssemblyReference.cache
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.AssemblyInfoInputs.cache
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.AssemblyInfo.cs
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.csproj.CoreCompileInputs.cache
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\refint\SmartSchool.DAL.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.pdb
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.genruntimeconfig.cache
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.DAL\obj\Debug\net7.0\ref\SmartSchool.DAL.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.deps.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.runtimeconfig.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\bin\Debug\net7.0\SmartSchool.DAL.pdb
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.csproj.AssemblyReference.cache
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.AssemblyInfoInputs.cache
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.AssemblyInfo.cs
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.csproj.CoreCompileInputs.cache
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\refint\SmartSchool.DAL.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.pdb
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\SmartSchool.DAL.genruntimeconfig.cache
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.DAL\obj\Debug\net7.0\ref\SmartSchool.DAL.dll

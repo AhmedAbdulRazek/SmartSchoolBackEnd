@@ -1,0 +1,1176 @@
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\appsettings.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.staticwebassets.runtime.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.exe
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.deps.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.runtimeconfig.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.pdb
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Azure.Core.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Humanizer.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\MailKit.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Build.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\MimeKit.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Common.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SendGrid.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\StarkbankEcdsa.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Stripe.net.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.BL.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.DAL.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.BL.pdb
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.DAL.pdb
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.AssemblyReference.cache
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.AssemblyInfoInputs.cache
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.AssemblyInfo.cs
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.CoreCompileInputs.cache
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.SmartSchool.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.SmartSchool.Api.props
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmartSchool.Api.props
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmartSchool.Api.props
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\scopedcss\bundle\SmartSchool.Api.styles.css
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.CopyComplete
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\refint\SmartSchool.Api.dll
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.pdb
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.genruntimeconfig.cache
+D:\0000-Final Project\00-GitHub\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\ref\SmartSchool.Api.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.staticwebassets.runtime.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.exe
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.deps.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.runtimeconfig.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.pdb
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\MailKit.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SendGrid.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Stripe.net.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.BL.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.DAL.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.BL.pdb
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.DAL.pdb
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.AssemblyReference.cache
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.AssemblyInfoInputs.cache
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.AssemblyInfo.cs
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.CoreCompileInputs.cache
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.SmartSchool.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.SmartSchool.Api.props
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmartSchool.Api.props
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmartSchool.Api.props
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\scopedcss\bundle\SmartSchool.Api.styles.css
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.CopyComplete
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\refint\SmartSchool.Api.dll
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.pdb
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.genruntimeconfig.cache
+C:\Users\Hadeer\Desktop\SmartSchoolHatem-master\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\ref\SmartSchool.Api.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\appsettings.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.staticwebassets.runtime.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.exe
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.deps.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.runtimeconfig.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.pdb
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Azure.Core.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Humanizer.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\MailKit.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Build.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\MimeKit.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Common.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SendGrid.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\StarkbankEcdsa.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Stripe.net.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.BL.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.DAL.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.BL.pdb
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.DAL.pdb
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.AssemblyReference.cache
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.AssemblyInfoInputs.cache
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.AssemblyInfo.cs
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.CoreCompileInputs.cache
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.SmartSchool.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.SmartSchool.Api.props
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmartSchool.Api.props
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmartSchool.Api.props
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\scopedcss\bundle\SmartSchool.Api.styles.css
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.CopyComplete
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\refint\SmartSchool.Api.dll
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.pdb
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.genruntimeconfig.cache
+D:\training\iti\graduation project\SmartSchoolHatem-master\SmartSchool.Api\obj\Debug\net7.0\ref\SmartSchool.Api.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\appsettings.Development.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\appsettings.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.staticwebassets.runtime.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.exe
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.deps.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.runtimeconfig.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.Api.pdb
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Azure.Core.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Azure.Identity.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Humanizer.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\MailKit.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Build.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\MimeKit.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\NuGet.Common.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\NuGet.Configuration.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\NuGet.Frameworks.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\NuGet.Packaging.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\NuGet.Protocol.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\NuGet.Versioning.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SendGrid.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\StarkbankEcdsa.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Stripe.net.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.CodeDom.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Convention.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Hosting.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Composition.Runtime.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Memory.Data.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.BL.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.DAL.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.BL.pdb
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\bin\Debug\net7.0\SmartSchool.DAL.pdb
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.AssemblyReference.cache
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.AssemblyInfoInputs.cache
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.AssemblyInfo.cs
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.CoreCompileInputs.cache
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.MvcApplicationPartsAssemblyInfo.cs
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.MvcApplicationPartsAssemblyInfo.cache
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.SmartSchool.Api.Microsoft.AspNetCore.StaticWebAssets.props
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.SmartSchool.Api.props
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmartSchool.Api.props
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmartSchool.Api.props
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.pack.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.build.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\staticwebassets.development.json
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\scopedcss\bundle\SmartSchool.Api.styles.css
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.csproj.CopyComplete
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\refint\SmartSchool.Api.dll
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.pdb
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\SmartSchool.Api.genruntimeconfig.cache
+H:\ITI\FinalProject\Final Sources\backend\SmartSchoolBackend\SmartSchool.Api\obj\Debug\net7.0\ref\SmartSchool.Api.dll
